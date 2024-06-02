@@ -1,4 +1,4 @@
-headcount - Python GUI and Excel for Attendance Management
+headcount - Attendance Management GUI using Python and Excel
 
 Taking attendance made fair, time efficient and easier by recognizing WiFi
 SSID's in range rather than physical counting. This program is only intended
