@@ -4,7 +4,7 @@ Taking attendance made fair, time efficient and easier by recognizing WiFi
 SSID's in range rather than physical counting. This program is only intended
 to be used a tool and by no means is a foolproof method for its shortcomings.
 
-Only the following two lines from the sciprt require Admin privilges:
+Only the following two lines from the script require Admin privileges:
 	...subprocess.run("netsh interface set interface name=\"Wi-Fi\" admin = disabled")
 	...subprocess.run("netsh interface set interface name=\"Wi-Fi\" admin = enabled")
 Turns ON and OFF the WiFi interface to scan for new networks in range.
