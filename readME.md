@@ -33,19 +33,19 @@ Turns ON and OFF the WiFi interface to refresh and scan for new networks in rang
 
 
 
-## Python (3.12.3) Libraries Used
+## Python (3.12.4) Libraries Used
 
 - time
 
 - subprocess
 
-- pandas
+- pandas 2.2.2
 
 - datetime
 
 - os
 
-- tkinter
+- tkinter 8.6
 
 
 
