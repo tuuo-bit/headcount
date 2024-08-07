@@ -37,6 +37,8 @@ Turns ON and OFF the WiFi interface to refresh and scan for new networks in rang
 
 - time
 
+- openpyxl 3.1.5
+
 - subprocess
 
 - pandas 2.2.2
